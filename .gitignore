@@ -1,5 +1,5 @@
 .DS_Store
-*/*.app
-*/*.exe
-*/*.out
-*/*.exec
+*.app
+*.exe
+*.out
+*.exec
